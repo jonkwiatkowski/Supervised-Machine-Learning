@@ -1,6 +1,4 @@
-# supervised-machine-learning-challenge
-
-In this project, a machine learning model that attempts to predict whether a loan will be approved or not was built. 
+# Supervised Machine Learning
 
 ## Background
 
